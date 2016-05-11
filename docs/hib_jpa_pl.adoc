@@ -7,6 +7,8 @@
 :iconsdir: ./icons
 :stylesdir: ./styles
 :scriptsdir: ./js
+= Document Title
+:data-uri:
 
 :image-link: https://pbs.twimg.com/profile_images/425289501980639233/tUWf7KiC.jpeg
 ifndef::sourcedir[:sourcedir: ./src/main/java/]
